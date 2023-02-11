@@ -2,9 +2,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-global.botname = "Queen Anya" 
+global.botname = "FoxBotz" 
 global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
-global.author = "𝙋𝙄𝙆𝘼"  
+global.author = "Kavi"  
 global.packname = "Fox✯Ravana✯𝘽𝙊𝙏"  
 global.myweb = "https://github.com/" // You can put any link 
 global.waterMark = "×͜× King ✘ Fox™ ✓" // Your own watermark 
